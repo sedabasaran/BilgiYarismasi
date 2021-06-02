@@ -1,3 +1,7 @@
+# NOT bu proje " https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript " referans alınarak yapılmıştır. 
+
+# Bu yüklediğim projeyi buraya başlangıç aşaması olarak yükledim. Daha sonra proje üzerinde kendi yazdığım kodlarla ses efekleri, joker hakkı vb tarzı güncellemeler yapılacaktır.Şu an yapım aşamasındadır.
+
 # KULLANILAN TEKNOLOJİLER:
 -HTML
 -CSS
