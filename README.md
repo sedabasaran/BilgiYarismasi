@@ -1,6 +1,5 @@
 # <h1> NOT bu proje " https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript " referans alınarak yapılmıştır. </h1>
 
-# <h1> Bu projeyi buraya başlangıç aşaması olarak yükledim. Daha sonra proje üzerinde kendi yazdığım kodlarla ses efekleri, joker hakkı vb tarzı güncellemeler yapılacaktır.Şu an yapım aşamasındadır. </h1>
 
 # KULLANILAN TEKNOLOJİLER:
 -HTML
