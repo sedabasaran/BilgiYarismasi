@@ -1,4 +1,4 @@
-# <h1> NOT bu proje " https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript " referans alınarak yapılmıştır. </h1>
+# <h1> NOT: Bu proje " https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript " referans alınarak yapılmıştır. </h1>
 
 
 # KULLANILAN TEKNOLOJİLER:
